@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasiganesan&label=Profile%20views&color=0e75b6&style=flat" alt="sasiganesan" /> </p>
 
+- 👨‍💻 All of my projects are available at https://github.com/SasiGanesan [https://github.com/SasiGanesan](https://github.com/SasiGanesan)
+
 - 📫 How to reach me **sasiganesan2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
